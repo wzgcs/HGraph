@@ -1,5 +1,5 @@
 **News!!!**   
-**[12/03/2023]** Manuscript `LR-CNN: Lightweight Row-Centric Convolutional Neural Network Training for Memory Reduction` is submitted to ICDE 2024 !!!  
+**[12/03/2023]** Manuscript `LR-CNN: Lightweight Row-Centric Convolutional Neural Network Training for Memory Reduction` is submitted to ICDE 2024 for under view!!!  
 **[08/10/2023]** Code cleanup.   
 **[07/13/2023]** The existing ieda of Checkpointing is integrated.   
 **[05/28/2023]** The existing idea of abandoning cheap-to-be-reomputed data is integrated.  
